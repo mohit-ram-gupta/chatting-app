@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.1926c037.css",
+    "main.js": "/chat/static/js/main.a7abfb0f.js",
+    "static/js/787.2c1696ae.chunk.js": "/chat/static/js/787.2c1696ae.chunk.js",
+    "static/media/notify.wav": "/chat/static/media/notify.a3dd13b67e8debac2288.wav",
+    "static/media/pdfLogo.png": "/chat/static/media/pdfLogo.7374e01186f8fa2bab40.png",
+    "index.html": "/chat/index.html",
+    "main.1926c037.css.map": "/chat/static/css/main.1926c037.css.map",
+    "main.a7abfb0f.js.map": "/chat/static/js/main.a7abfb0f.js.map",
+    "787.2c1696ae.chunk.js.map": "/chat/static/js/787.2c1696ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1926c037.css",
+    "static/js/main.a7abfb0f.js"
+  ]
+}

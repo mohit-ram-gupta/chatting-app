@@ -1,0 +1,8 @@
+{
+  "name": "yourname/chatting-app",
+  "description": "A simple PHP chatting app",
+  "require": {
+    "monolog/monolog": "^2.0",
+    "google/auth": "^1.40"
+  }
+}
